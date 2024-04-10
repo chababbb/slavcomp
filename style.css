@@ -19,6 +19,11 @@ a {
     color: #000;
 }
 
+.normal {
+    color: #0057D9;
+    text-decoration: underline;
+}
+
 h1, h2, h3, h4, p {
     margin: 0px;
 }
@@ -85,7 +90,7 @@ header .links li a {
 }
 
 header .links li a:hover {
-    color: #B297FF;
+    color: #8f77d1;
 }
 
 .links {
